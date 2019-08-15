@@ -28,7 +28,8 @@ Write a Data Science Blog Post - Denver Crime Data.ipynb
 
 This notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells & comments were used to assist in walking through the thought process for individual steps.    
 
-The 'Denver Crime' dataset is very large so it is not included in the git commit. The data can be downloaded from [here](https://www.kaggle.com/paultimothymooney/denver-crime-data).
+crime.csv.zip
+The 'Denver Crime' dataset is very large so it was compressed in order to decrease the file size. The data can also be downloaded from [here](https://www.kaggle.com/paultimothymooney/denver-crime-data).
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/@bh2589/denver-crime-data-exploration-a541c65e75c4).
